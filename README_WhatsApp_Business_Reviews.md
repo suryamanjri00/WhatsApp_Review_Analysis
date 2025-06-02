@@ -62,17 +62,6 @@ The project includes Jupyter notebooks for data exploration, preprocessing, and 
 
 *Include sample plots or word clouds here to showcase insights derived from the data.*
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions, bug fixes, or enhancements, please open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 📬 Contact
-
-For questions or feedback, please contact [your.email@example.com](mailto:your.email@example.com).
 
 ---
 
